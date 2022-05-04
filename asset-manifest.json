@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Barbacoa-app/static/css/main.073c9b0a.css",
-    "main.js": "/Barbacoa-app/static/js/main.feb9f692.js",
+    "main.js": "/Barbacoa-app/static/js/main.f7f0fefe.js",
     "static/js/787.4da721eb.chunk.js": "/Barbacoa-app/static/js/787.4da721eb.chunk.js",
     "static/media/logo.svg": "/Barbacoa-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Barbacoa-app/index.html",
     "main.073c9b0a.css.map": "/Barbacoa-app/static/css/main.073c9b0a.css.map",
-    "main.feb9f692.js.map": "/Barbacoa-app/static/js/main.feb9f692.js.map",
+    "main.f7f0fefe.js.map": "/Barbacoa-app/static/js/main.f7f0fefe.js.map",
     "787.4da721eb.chunk.js.map": "/Barbacoa-app/static/js/787.4da721eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.feb9f692.js"
+    "static/js/main.f7f0fefe.js"
   ]
 }
