@@ -1,5 +1,7 @@
 import logo from './logo.svg';
+import Contador from './Components/Contador';
 import './App.css';
+
 
 function App() {
   return (
@@ -17,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <Contador></Contador>
       </header>
     </div>
   );
